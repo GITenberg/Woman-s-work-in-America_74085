@@ -1,0 +1,60 @@
+_repo: Woman-s-work-in-America_74085
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Howe, Julia Ward
+    aliases:
+    - Howe, Mrs. Samuel Gridley
+    - Ward, Julia
+    birthdate: 1819
+    deathdate: 1910
+    gutenberg_agent_id: '35885'
+    url: http://www.gutenberg.org/2009/agents/35885
+    wikipedia: https://en.wikipedia.org/wiki/Julia_Ward_Howe
+creator:
+  editor:
+    agent_name: Meyer, Annie Nathan
+    alias: Nathan, Annie
+    birthdate: 1867
+    deathdate: 1951
+    gutenberg_agent_id: '43827'
+    url: http://www.gutenberg.org/2009/agents/43827
+    wikipedia: https://en.wikipedia.org/wiki/Annie_Nathan_Meyer
+description: ''
+gutenberg_issued: '2024-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74085'
+  lccn: 09008708
+language: en
+pgterms:marc904: https://archive.org/details/womansworkinamer00meye
+pgterms:marc905: 20230528163435meyer
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bH. Holt and Co, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Women -- Employment -- United States'
+- !lcc 'HD'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: 'Introduction, by Julia Ward Howe -- The education of woman in the
+  eastern states, by Mary F. Eastman -- The education of woman in the western states,
+  by May Wright Sewall -- The education of woman in the southern states, by Christine
+  Ladd Franklin -- Woman in Literature, by Helen Grey Cone -- Woman in journalism,
+  by Susan E. Dickinson -- Woman in medicine, by Mary Putnam Jacobi, M.D -- Woman
+  in the ministry, by Rev. Ada C. Bowles -- Woman in law, by Ada M. Bittenbender --
+  Woman in the state, by Mary A. Livermore -- Woman in industry, by Alice Hyneman
+  Rhine -- Woman in philanthropy: Charity, by Josephine Shaw Lowell -- Woman in philanthropy:
+  Care of the sick, by Ednah Dow Cheney -- Woman in philanthropy: Care of the criminal,
+  by Susan Hammond Barney -- Woman in philanthropy: Care of the Indian, by Amelia
+  Stone Quinton -- Woman in philanthropy: Work of anti-slavery women, by Lillie B.
+  Chace Wyman -- Woman in philanthropy: Work of the W.C.T.U., by Frances E. Willard
+  -- Woman in philanthropy: Work of the Red Cross Society, by Clara Barton.'
+title: Woman's work in America
+url: http://www.gutenberg.org/ebooks/74085
