@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '35885'
     url: http://www.gutenberg.org/2009/agents/35885
     wikipedia: https://en.wikipedia.org/wiki/Julia_Ward_Howe
+covers:
+- cover_type: archival
+  image_path: 74085-h/images/cover.jpg
 creator:
   editor:
     agent_name: Meyer, Annie Nathan
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43827
     wikipedia: https://en.wikipedia.org/wiki/Annie_Nathan_Meyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74085#Woman-s-work-in-America
 gutenberg_issued: '2024-07-20'
 gutenberg_type: Text
 identifiers:
